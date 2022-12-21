@@ -206,14 +206,11 @@ select, #search {
     margin-left: 50px;
     transition: transform ease-in-out 0.3s;
 }
-/* #choice img:hover {
-    transform: scale(1.1);
-} */
 #choice p {
     padding-top: 20px;
     text-align: center;
     margin-left: 50px;
-    color: red;
+    font-size: 15px;
 }
 #cities {
     background-color: rgb(193, 242, 242);
